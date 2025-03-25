@@ -47,3 +47,7 @@ http://localhost:3000
 - style.css: Arquivo de estilos.
 
 - App.css: Estilizações adicionais.
+
+## Link para o acesso ao site
+- pokedex-phi-murex.vercel.app
+
