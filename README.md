@@ -22,11 +22,11 @@ Exibe a imagem, nome, número, peso e altura do Pokémon.
 
 ### Clone este repositório:
 
-- git clone https://github.com/seu-usuario/pokemon-api-search.git
+- git clone https://github.com/gustavorsc/Pokedex
 
 ### Acesse a pasta do projeto:
 
-- cd pokemon-api-search
+- cd pokedex
 
 ### Instale as dependências:
 
